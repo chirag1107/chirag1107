@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=CHIRAG_PATIL&height=100&section=header"/>
 </p>
-<h3 align="center">AIML Student | Full-Stack Web Developer | Vibe Coding </h3>
+<h3 align="center">AIML Student | Vibe Coding </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag1107&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-borse-dev" /> </p>
