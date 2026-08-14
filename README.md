@@ -2,8 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=CHIRAG_PATIL&height=100&section=header"/>
 </p>
-<h3 align="center">AIML Student | Vibe Coding </h3>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=2400&pause=900&color=00FFE3&center=true&vCenter=true&repeat=true&width=1000&lines=Second-Year+AI+%26+ML+Engineer+%E2%80%A2+RCPIT;Working+%E2%80%A2+Real-World+Projects;Ecell+%E2%80%A2+Eureka%2826%29+First+Winners%F0%9F%A5%87;Passionate+%E2%80%A2+Full-Stack+%26+AI+Agents;Building+practical+solutions+with+AI" alt="Typing SVG" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag1107&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-borse-dev" /> </p>
 
@@ -11,27 +14,15 @@
 <div align="center">
   <img width="800" height="450" alt="ai-generations_wan_85f77df8-06ba-41d4-a4bf-84ca06e90696-M6_FL9-ezgif com-speed" src="https://github.com/user-attachments/assets/1884bc65-4215-49d9-a866-690b4eddfde4" />
 </div>
-<p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="blank">
-    <img src="https://img.shields.io/twitter/follow/@Cp6644957Panda?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  
-</p>
+
 
 - 🔭 I’m currently working on **Eco-Quest** (hosted on Vercel) and a custom web application designed for CO2 enthusiasts.
+  
 - 👯 I’m actively participating in an internship and training program at **ANDS NETWORK (Algeina Technology LLP)**.
 
 - 🏆 EUREKA ’26 FIRST WINNER RCPIT
-
-- 🎓 I'm a first-year undergraduate student pursuing Artificial Intelligence & Machine Learning (Expected '29) at **R.C. Patel Institute of Technology (RCPIT)**.
-
-- 👨‍💻 I practice programming and problem-solving through **CodeChef** and manage my code repositories on **GitHub**.
-
-- 💬 Ask me about **AI/ML and Full Stack-Web Development , AI Work Flows**.
-
-- 📫 How to reach me: **[cp6644957@gmail.com]**
-
-- ⚡ Fun fact: When I'm not coding or building projects, I'm focused on bodyweight strength training at the gym, playing Valorant, or watching anime like *Demon Slayer* and *One Piece*!
+  
+- ⚡ Fun fact: 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -59,12 +50,13 @@
   <img src="https://i.pinimg.com/originals/3e/2d/e3/3e2de3049b80b2a386121481e4697fbf.gif" width="75%" alt="Lo-Fi Coding">
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+
+## 📬 Reach out
+- **GitHub:** [@chirag1107](https://github.com/chirag1107)
+- **Location:** Shirpur, Maharashtra, India
+- **WhatsApp:** [Chat](https://wa.me/917201870282)
+- **Calendly:** [Book a call](https://calendly.com/chirag)
+- **Email:** cp6644957@gmail.com
 
 
 
