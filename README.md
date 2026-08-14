@@ -66,15 +66,11 @@
   <a href="https://leetcode.com/u/YOUR_LEETCODE/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/git-goods/gitanimals">
-        <img src="https://i.pinimg.com/originals/c3/16/fb/c316fb113192ff4854db1c528e142203.gif" width="50%" alt="Gitanimals Farm Mode" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=THΛNK_YoU!&height=100&section=footer"/>
