@@ -3,9 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=CHIRAG_PATIL&height=100&section=header"/>
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=2400&pause=900&color=00FFE3&center=true&vCenter=true&repeat=true&width=1000&lines=Second-Year+AI+%26+ML+Engineer+%E2%80%A2+RCPIT;Working+%E2%80%A2+Real-World+Projects;Ecell+%E2%80%A2+Eureka%2826%29+First+Winners%F0%9F%A5%87;Passionate+%E2%80%A2+Full-Stack+%26+AI+Agents;Building+practical+solutions+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=2400&pause=900&color=00FF66&center=true&vCenter=true&repeat=true&width=1000&lines=Second-Year+AI+%26+ML+Engineer+%E2%80%A2+RCPIT;Working+%E2%80%A2+Real-World+Projects;Ecell+%E2%80%A2+Eureka%2826%29+First+Winners%F0%9F%A5%87;Passionate+%E2%80%A2+Full-Stack+%26+AI+Agents;Building+practical+solutions+with+AI" alt="Typing SVG" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag1107&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-borse-dev" /> </p>
