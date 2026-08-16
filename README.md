@@ -16,12 +16,10 @@
 
 
 - 🔭 I’m currently working on **Eco-Quest** (hosted on Vercel) and a custom web application designed for CO2 enthusiasts.
-  
-- 👯 I’m actively participating in an internship and training program at **ANDS NETWORK (Algeina Technology LLP)**.
 
 - 🏆 EUREKA ’26 FIRST WINNER RCPIT
   
-- ⚡ Fun fact: 
+- ⚡ Fun fact: More Project Are Upcoming
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
